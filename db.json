@@ -8,10 +8,11 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1, "userId": 2 },
     { "id": 2, "body": "some comment", "postId": 1, "userId": 2 },
-    { "id": 3, "body": "some comment", "postId": 4, "userId": 1 }
+    { "id": 3, "body": "some comment", "postId": 4, "userId": 3 }
   ],
   "profile": [
     {"id":1, "name": "Benhur"},
     {"id":2, "name": "Alcione"},
+    {"id":3, "name": "Joseph"}
   ]
 }
