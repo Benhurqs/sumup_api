@@ -25,10 +25,10 @@
     { "id": 13, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 }
     
   ],
-  "profile": [
-    {"id":1, "name": "Benhur"},
-    {"id":2, "name": "Alcione"},
-    {"id":3, "name": "Joseph"},
-    {"id":4, "name": "Chris"}
+  "users": [
+    {"id":1, "name": "Benhur", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
+    {"id":2, "name": "Alcione", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
+    {"id":3, "name": "Joseph", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
+    {"id":4, "name": "Chris", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"}
   ]
 }
