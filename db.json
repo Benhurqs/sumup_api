@@ -26,9 +26,10 @@
     
   ],
   "users": [
-    {"id":1, "name": "Benhur", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
-    {"id":2, "name": "Alcione", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
-    {"id":3, "name": "Joseph", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"},
-    {"id":4, "name": "Chris", "image": "https://static1.dermaclub.com.br/articles/0/22/0/@/615--article_image-1.jpg"}
+    {"id":1, "name": "Leonard da Vinci", "image": "https://www.biography.com/.image/t_share/MTY2MzU4MjUzMDA4MDcwMzE4/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"},
+    {"id":2, "name": "Vincent van Gogh", "image": "https://www.biography.com/.image/t_share/MTY2NTIzMzc4MTI2MDM4MjM5/vincent_van_gogh_self_portrait_painting_musee_dorsay_via_wikimedia_commons_promojpg.jpg"},
+    {"id":3, "name": "Salvador Dali", "image": "https://mgm-website-production.oss-cn-hongkong.aliyuncs.com/uploads/2018/01/salvador-dali-1024.jpg"},
+    {"id":4, "name": "Pablo Picasso", "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg"},
+    {"id":5, "name": "Claude Monet", "image": "https://www.theartstory.org/images20/new_design/bio/bio_monet_claude.jpg"}
   ]
 }
