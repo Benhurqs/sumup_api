@@ -8,7 +8,7 @@
     { "id": 6, "title": "Surrealismo", "userId": 3 },
     { "id": 7, "title": "Ilusão de Ótica", "userId": 3 },
     { "id": 8, "title": "Pinturas", "userId": 4 },
-    { "id": 8, "title": "Pinturas 2019", "userId": 4 }
+    { "id": 9, "title": "Pinturas 2019", "userId": 4 }
   ],
   "photos":[
     { "id": 1, "url": "https://cdn.culturagenial.com/imagens/687px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched-cke.jpg", "albumID": 1 },
