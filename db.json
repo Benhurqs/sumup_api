@@ -10,7 +10,7 @@
     { "id": 8, "title": "Album 8", "userId": 4 }
   ],
   "photos":[
-    { "id": 1, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
+    { "id": 1, "url": "https://cdn.culturagenial.com/imagens/687px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched-cke.jpg", "albumID": 1 },
     { "id": 2, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
     { "id": 3, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 2 },
     { "id": 4, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
