@@ -1,8 +1,8 @@
 {
   "albums": [
-    { "id": 1, "title": "Album 1", "userId": 1 },
-    { "id": 2, "title": "Album 2", "userId": 1 },
-    { "id": 3, "title": "Album 3", "userId": 1 },
+    { "id": 1, "title": "Renascimento", "userId": 1 },
+    { "id": 2, "title": "Autoretrato", "userId": 1 },
+    { "id": 3, "title": "Desenhos", "userId": 1 },
     { "id": 4, "title": "Album 4", "userId": 2 },
     { "id": 5, "title": "Album 5", "userId": 2 },
     { "id": 6, "title": "Album 6", "userId": 3 },
@@ -11,15 +11,16 @@
   ],
   "photos":[
     { "id": 1, "url": "https://cdn.culturagenial.com/imagens/687px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched-cke.jpg", "albumID": 1 },
-    { "id": 2, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
-    { "id": 3, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 2 },
-    { "id": 4, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
-    { "id": 5, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 3 },
-    { "id": 6, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
-    { "id": 7, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 4 },
-    { "id": 8, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 4 },
-    { "id": 9, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 3 },
-    { "id": 10, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 },
+    { "id": 2, "url": "https://www.todocuadros.es/media/catalog/product/cache/1/small_image/450x450/040ec09b1e35df139433887a97daa66f/d/a/dama-armino-da-vinci.jpg", "albumID": 1 },
+    { "id": 3, "url": "https://www.todocuadros.es/media/catalog/product/cache/1/small_image/450x450/040ec09b1e35df139433887a97daa66f/b/e/belle_ferroniere-da-vinci.jpg", "albumID": 1 },
+    { "id": 4, "url": "https://cdn.culturagenial.com/es/imagenes/salvator-mundi.jpg", "albumID": 1 },
+    { "id": 5, "url": "http://www.leonardodavinci.net/images/leonardo-da-vinci.jpg", "albumID": 2 },
+    { "id": 6, "url": "https://media.newyorker.com/photos/59d53edcae878c63a783a1e9/master/w_727,c_limit/171016_r30728.jpg", "albumID": 2 },
+    { "id": 7, "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg", "albumID": 2 },
+    { "id": 8, "url": "https://www.standard.co.uk/s3fs-public/thumbnails/image/2019/05/23/10/leonardo-drawings-2305f.jpg", "albumID": 3 },
+    { "id": 9, "url": "https://www.studiointernational.com/image_article.php?image=images/articles/d/081-da-vinci-leonardo-2019/leonardo_660x565.jpg", "albumID": 3 },
+    { "id": 10, "url": "https://www.leonardodavinci.net/images/drawings/the-skull.jpg", "albumID": 3 },
+    
     { "id": 11, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 2 },
     { "id": 12, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 3 },
     { "id": 13, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 }
