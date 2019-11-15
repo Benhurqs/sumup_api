@@ -3,11 +3,12 @@
     { "id": 1, "title": "Renascimento", "userId": 1 },
     { "id": 2, "title": "Autoretrato", "userId": 1 },
     { "id": 3, "title": "Desenhos", "userId": 1 },
-    { "id": 4, "title": "Album 4", "userId": 2 },
-    { "id": 5, "title": "Album 5", "userId": 2 },
-    { "id": 6, "title": "Album 6", "userId": 3 },
-    { "id": 7, "title": "Album 7", "userId": 3 },
-    { "id": 8, "title": "Album 8", "userId": 4 }
+    { "id": 4, "title": "Noite", "userId": 2 },
+    { "id": 5, "title": "Flores", "userId": 2 },
+    { "id": 6, "title": "Surrealismo", "userId": 3 },
+    { "id": 7, "title": "Ilusão de Ótica", "userId": 3 },
+    { "id": 8, "title": "Pinturas", "userId": 4 },
+    { "id": 8, "title": "Pinturas 2019", "userId": 4 }
   ],
   "photos":[
     { "id": 1, "url": "https://cdn.culturagenial.com/imagens/687px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched-cke.jpg", "albumID": 1 },
@@ -21,9 +22,22 @@
     { "id": 9, "url": "https://www.studiointernational.com/image_article.php?image=images/articles/d/081-da-vinci-leonardo-2019/leonardo_660x565.jpg", "albumID": 3 },
     { "id": 10, "url": "https://www.leonardodavinci.net/images/drawings/the-skull.jpg", "albumID": 3 },
     
-    { "id": 11, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 2 },
-    { "id": 12, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 3 },
-    { "id": 13, "url": "https://i.pinimg.com/474x/19/06/93/1906936e88ebdbe909a1583147746a6d.jpg", "albumID": 1 }
+    { "id": 11, "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg", "albumID": 4 },
+    { "id": 12, "url": "https://amysartgallery.com/Ven-Photos/36x48/xla223_2.jpg", "albumID": 4 },
+    { "id": 13, "url": "https://www.artsheaven.com/wp-content/uploads/2019/04/van-gogh-sunflowers-12-in-a-vase-1-510x685.jpg", "albumID": 5 },
+    { "id": 13, "url": "https://images.fineartamerica.com/images/artworkimages/medium/1/summer-sunflowers-van-gogh-david-pyatt.jpg", "albumID": 5 },
+    { "id": 13, "url": "https://www.artsheaven.com/wp-content/uploads/2019/04/van-gogh-sunflowers-12-in-a-vase-1-510x685.jpg", "albumID": 5 },
+    { "id": 13, "url": "https://d1e4pidl3fu268.cloudfront.net/58a3f67e-6ba5-4419-ab1b-23596352aa3a/dali11.crop_685x514_0%2C21.preview.jpg", "albumID": 6 },
+    { "id": 13, "url": "https://www.kazoart.com/blog/wp-content/uploads/2019/04/Dali-persistance-of-memory.jpg", "albumID": 6 },
+    { "id": 13, "url": "http://www.chilloutpoint.com/images/2010/08/jose-roosevelt-surrealist-painter/jose-roosevelt-surrealist-painter-10.jpg", "albumID": 6 },
+    { "id": 13, "url": "https://i.pinimg.com/originals/eb/20/c2/eb20c2ca46e302b96ce255c72d5b0272.jpg", "albumID": 7 },
+    { "id": 13, "url": "http://thirdmonk.net/postcont/2012/08/Oleg-Shuplyak-Optical-Illusion-Gallery-10-john-lennon.jpg", "albumID": 7 },
+    { "id": 13, "url": "http://www.chilloutpoint.com/images/2010/07/illusions-through-the-paintings-of-salvador-dali/illusions-through-the-paintings-of-salvador-dali-18.jpg", "albumID": 7 },
+    { "id": 13, "url": "http://thewallbreakers.com/wp-content/uploads/2013/09/Illusion_Paintings_07.jpg", "albumID": 7 },
+    { "id": 13, "url": "https://i.pinimg.com/originals/55/32/7a/55327a75f7be1e6a5c8bbe22ebd3e3aa.jpg", "albumID": 7 },
+    { "id": 13, "url": "https://images.saatchiart.com/saatchi/247461/art/3766226/2836110-FSKZGWWW-7.jpg", "albumID": 8 },
+    { "id": 13, "url": "https://www.pablopicasso.org/images/paintings/girl-before-a-mirror.jpg", "albumID": 8 },
+    { "id": 13, "url": "https://images.saatchiart.com/saatchi/247461/art/3717209/2787093-FTEQAVPA-6.jpg", "albumID": 8 }
     
   ],
   "users": [
